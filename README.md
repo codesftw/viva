@@ -7,7 +7,7 @@
 - map questions to answers
   
 ### speech recognition 
-- text to speech from student
+- speech to text from student
 - preprocessing and cleaning the answer
 
 ### gpt / nlp
